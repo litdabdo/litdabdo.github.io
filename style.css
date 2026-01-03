@@ -482,3 +482,8 @@ body {
 main {
   min-height: calc(100vh - 140px);
 }
+.solutions p,
+.solutions li,
+.solutions h2 {
+  color: #000; /* noir */
+}
